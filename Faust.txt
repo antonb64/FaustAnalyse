@@ -2,7 +2,8 @@
   Faust: Der Tragödie erster Teil
 
   Johann Wolfgang von Goethe
-  //copied from: http://www.gutenberg.org/ //formatted for analysing purposes
+
+
   Zueignung.
 
   Ihr naht euch wieder, schwankende Gestalten,
@@ -95,7 +96,7 @@
   Was glänzt, ist für den Augenblick geboren,
   Das Echte bleibt der Nachwelt unverloren.
 
-  LUSTIGE PERSON:
+  LUSTIGE_PERSON:
   Wenn ich nur nichts von Nachwelt hören sollte.
   Gesetzt, daß ich von Nachwelt reden wollte,
   Wer machte denn der Mitwelt Spaß?
@@ -188,7 +189,7 @@
   Wer sichert den Olymp?  vereinet Götter?
   Des Menschen Kraft, im Dichter offenbart.
 
-  LUSTIGE PERSON:
+  LUSTIGE_PERSON:
   So braucht sie denn, die schönen Kräfte
   Und treibt die dichtrischen Geschäfte
   Wie man ein Liebesabenteuer treibt.
@@ -232,7 +233,7 @@
   Des Hasses Kraft, die Macht der Liebe,
   Gib meine Jugend mir zurück!
 
-  LUSTIGE PERSON:
+  LUSTIGE_PERSON:
   Der Jugend, guter Freund, bedarfst du allenfalls,
   Wenn dich in Schlachten Feinde drängen,
   Wenn mit Gewalt an deinen Hals
@@ -320,7 +321,7 @@
   Doch deine Boten, Herr, verehren
   Das sanfte Wandeln deines Tags.
 
-  ZU DREI:
+  ZU_DREI:
   Der Anblick gibt den Engeln Stärke,
   Da keiner dich ergründen mag,
   Und alle deine hohen Werke
@@ -350,7 +351,7 @@
   Und läg er nur noch immer in dem Grase!
   In jeden Quark begräbt er seine Nase.
 
-  DER HERR:
+  DER_HERR:
   Hast du mir weiter nichts zu sagen?
   Kommst du nur immer anzuklagen?
   Ist auf der Erde ewig dir nichts recht?
@@ -360,13 +361,13 @@
   Die Menschen dauern mich in ihren Jammertagen,
   Ich mag sogar die armen selbst nicht plagen.
 
-  DER HERR:
+  DER_HERR:
   Kennst du den Faust?
 
   MEPHISTOPHELES:
   Den Doktor?
 
-  DER HERR:
+  DER_HERR:
   Meinen Knecht!
 
   MEPHISTOPHELES:
@@ -379,7 +380,7 @@
   Und alle Näh und alle Ferne
   Befriedigt nicht die tiefbewegte Brust.
 
-  DER HERR:
+  DER_HERR:
   Wenn er mir auch nur verworren dient,
   So werd ich ihn bald in die Klarheit führen.
   Weiß doch der Gärtner, wenn das Bäumchen grünt,
@@ -390,7 +391,7 @@
   Wenn Ihr mir die Erlaubnis gebt,
   Ihn meine Straße sacht zu führen.
 
-  DER HERR:
+  DER_HERR:
   Solang er auf der Erde lebt,
   So lange sei dir's nicht verboten,
   Es irrt der Mensch so lang er strebt.
@@ -402,7 +403,7 @@
   Für einem Leichnam bin ich nicht zu Haus;
   Mir geht es wie der Katze mit der Maus.
 
-  DER HERR:
+  DER_HERR:
   Nun gut, es sei dir überlassen!
   Zieh diesen Geist von seinem Urquell ab,
   Und führ ihn, kannst du ihn erfassen,
@@ -419,7 +420,7 @@
   Staub soll er fressen, und mit Lust,
   Wie meine Muhme, die berühmte Schlange.
 
-  DER HERR:
+  DER_HERR:
   Du darfst auch da nur frei erscheinen;
   Ich habe deinesgleichen nie gehaßt.
   Von allen Geistern, die verneinen,
@@ -919,7 +920,7 @@
   (Er setzt die Schale an den Mund.)
   Glockenklang und Chorgesang.
 
-  CHOR DER ENGEL:
+  CHOR_DER_ENGEL:
   Christ ist erstanden!
   Freude dem Sterblichen,
   Den die verderblichen,
@@ -935,7 +936,7 @@
   Der einst, um Grabes Nacht, von Engelslippen klang,
   Gewißheit einem neuen Bunde?
 
-  CHOR DER WEIBER:
+  CHOR_DER_WEIBER:
   Mit Spezereien
   Hatten wir ihn gepflegt,
   Wir seine Treuen
@@ -945,7 +946,7 @@
   Ach!  und wir finden
   Christ nicht mehr hier.
 
-  CHOR DER ENGEL:
+  CHOR_DER_ENGEL:
   Christ ist erstanden!
   Selig der Liebende,
   Der die betrübende,
@@ -991,7 +992,7 @@
   Ach!  wir beweinen,
   Meister, dein Glück!
 
-  CHOR DER ENGEL:
+  CHOR_DER_ENGEL:
   Christ ist erstanden,
   Aus der Verwesung Schoß.
   Reißet von Banden
@@ -1011,13 +1012,13 @@
   Spaziergänger aller Art ziehen hinaus.
 
 
-  EINIGE HANDWERKSBURSCHE:
+  EINIGE_HANDWERKSBURSCHE:
   Warum denn dort hinaus?
 
   ANDRE:
   Wir gehn hinaus aufs Jägerhaus.
 
-  DIE ERSTEN:
+  DIE_ERSTEN:
   Wir aber wollen nach der Mühle wandern.
 
   EIN HANDWERKSBURSCH:
